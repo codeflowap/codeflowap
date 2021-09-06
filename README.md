@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @codeflowap
 - 👀 I’m interested in Software/Data Engineering and Machine Learning
-- 🌱 I’m working on an mobile/web application and doing research in AI field 
-- 💞️ I’m looking to join a vibrant team for software development
 - 📫 You can reach me at apourcs@gmail.com
 
 <!---
